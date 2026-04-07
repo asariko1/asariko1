@@ -6,4 +6,4 @@ Hi, I'm Aşar 👋
 👨‍💻 My site: https://asariko.net/
 
 
-![](https://komarev.com/ghpvc/?username=asariko1)
+![](https://komarev.com/ghpvc/?username=asariko1&color=orange)
