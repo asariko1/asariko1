@@ -1,4 +1,4 @@
-<center><h1>**Hi, I'm Aşar**</h1></center>
+<center><h1>Hi, I'm Aşar</h1></center>
 
 
 I’m working on Excel Finder right now
