@@ -10,7 +10,7 @@
 
   <p style="margin: 10px 0;">
     🌐 <a href="https://asariko.net/" target="_blank" style="text-decoration: none; color: #f39c12;">
-      [asariko.net](https://asariko.net/)
+      https://asariko.net/
     </a>
   </p>
 
