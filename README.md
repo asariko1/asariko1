@@ -5,7 +5,7 @@
   <hr style="width: 60%; border: 1px solid #f39c12; margin: 10px auto;">
   
   <p style="font-size: 18px; margin: 10px 0;">
-    I’m currently working on <b>Excel Finder</b>
+    I’m currently working on <b>Flamenko COmpass MAster</b>
   </p>
 
   <p style="margin: 10px 0;">
